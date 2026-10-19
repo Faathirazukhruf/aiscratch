@@ -1,0 +1,5 @@
+# AI Scratch Dependencies
+# Disarankan menginstal torch versi CPU untuk pengguna tanpa GPU diskret:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+transformers>=4.40.0
